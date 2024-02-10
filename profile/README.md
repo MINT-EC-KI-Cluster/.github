@@ -12,4 +12,4 @@ The projects a categorized by tags.
 - difficulty: (easy, medium, hard)
 - topic: (nlp, vision, fundamentals)
 - framework: (pytorch, barebone, ...)
-- type: (showcase, template-kit, ...)
+- type: (showcase, template-kit, getting-started ...)
