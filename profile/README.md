@@ -3,7 +3,7 @@
 This organization is a collection of show-cases and starting-kits for ai projects.
 The projects are part of a learning course offered to pupils and students.
 
-Platform: Link coming soon
+Platform: [Lernplatform](https://ki-learning.vercel.app/)
 
 The projects a categorized by tags.
 
