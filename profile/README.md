@@ -13,3 +13,11 @@ The projects a categorized by tags.
 - topic: (nlp, vision, fundamentals)
 - framework: (pytorch, barebone, ...)
 - type: (showcase, template-kit, getting-started ...)
+
+# Orga
+
+Each project contains the docs displayed on the platform.
+Modifying the documents will synchronize the files with the platform repository.
+Therefore, updates to individual projects should not be made in the platform repository as they will be overwritten.
+
+### To start a new project you should use the MINT-EC-KI-Cluster/new_project template
