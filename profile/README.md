@@ -21,3 +21,7 @@ Modifying the documents will synchronize the files with the platform repository.
 Therefore, updates to individual projects should not be made in the platform repository as they will be overwritten.
 
 ### To start a new project you should use the [MINT-EC-KI-Cluster/new_project](https://github.com/MINT-EC-KI-Cluster/new_project) template
+
+# Awesome links
+
+Useful link collection: [Useful links](https://github.com/MINT-EC-KI-Cluster/awesome-list)
